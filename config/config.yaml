@@ -1,0 +1,6 @@
+topic_name: "/map"
+channels: 64
+horizontal_resolutions: 1024
+output_topic: "/spherical_image"
+intensity_image: true
+range_image: true
